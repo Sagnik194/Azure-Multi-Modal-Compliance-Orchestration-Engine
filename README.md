@@ -77,7 +77,7 @@ http://127.0.0.1:8000/docs
 
 For the complete architecture, workflow, implementation details, screenshots, and system design, please refer to:
 
-**📘 Project_Report.pdf**
+**📘 https://drive.google.com/file/d/1bMnVwbPYfNjufbtwtgJ_sYUA3oiKuBj9/view?usp=sharing**
 
 ---
 
